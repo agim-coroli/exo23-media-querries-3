@@ -3,6 +3,7 @@
         background-color: blue;
         border: 1px solid blue;
         width: 30%;
+        height: 300px;
 
     }
 }
@@ -11,6 +12,7 @@
         background-color: red;
         border: 1px solid rgb(255, 0, 0);
         width: 75%;
+                height: 300px;
     }
 }
 @media (min-width : 320px) and (max-width : 600px){
@@ -18,5 +20,6 @@
         background-color: orange;
         border: 1px solid rgb(229, 255, 0);
         width: 100%;
+        height: 300px;
     }
 }
